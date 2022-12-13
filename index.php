@@ -4,11 +4,7 @@
         
         
         <meta name="viewport" content="width=device-width, initial-scale=1">
-             <?php 
-  
-            include "bootstrap_header.php"; 
             
-            ?>
             <link rel="stylesheet" href="css/all.min.css"/>
        <link rel="stylesheet" href="style.css"/>
             <style>
@@ -176,10 +172,7 @@ button:hover {
 </style>
            
         </head>
-<?php 
 
-include"indexnav.php";
-?>
 <div id="top"class="col-xs-12 col-sm-12 col-md-12 col-lg-12"style="padding:10px;">
            <div class="panel-body"style="height:400px;width:100%;border-radius: 25px;
   border: 2px solid aqua;"> 
@@ -276,9 +269,3 @@ include"indexnav.php";
 </div>
 </div>
     
-<script src="jquery-3.6.0.min.js"></script>
-
-<?php
-      include "bootstrap_footer.php";
-      
-                 ?>
